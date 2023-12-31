@@ -37,6 +37,11 @@
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=0095D5)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Google Colab Badge](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&labelColor=black&logo=google%20colab&logoColor=F9AB00)](#)
+[![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)](#)
+[![Vite.js Badge](https://img.shields.io/badge/-Vite.js-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
+[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
+
 
 <br>
 
